@@ -1,8 +1,8 @@
-# 🧠 Sentiment Classification with Transformers
+# Sentiment Classification with Transformers
 
 This repository contains a sentiment classification pipeline using transformer-based models (GPT-2/NanoGPT) on customer service conversations.
 
-## 📄 Notebooks
+## Notebooks
 
 - **ExploratoryDataAnalysis.ipynb**:  
   Basic data inspection, class distribution, and text statistics.
